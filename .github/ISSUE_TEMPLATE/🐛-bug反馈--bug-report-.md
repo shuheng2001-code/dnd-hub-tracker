@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug反馈 (Bug Report)"
 about: 提交一个 Bug 报告以帮助我们改进 DND Hub。
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
 

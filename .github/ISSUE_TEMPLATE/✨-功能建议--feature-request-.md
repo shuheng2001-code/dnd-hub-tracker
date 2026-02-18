@@ -1,7 +1,7 @@
 ---
 name: "✨ 功能建议 (Feature Request)"
 about: 为 DND Hub 提出一个新的功能建议。
-title: ''
+title: "[FEATURE]"
 labels: ''
 assignees: ''
 
